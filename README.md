@@ -71,9 +71,6 @@ I'm a passionate **Full Stack Developer** from Dhaka, Bangladesh, who loves turn
 <a href="https://www.instagram.com/mohammod_mahathir_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
-  <a href="https://www.reddit.com/user/Gold-fish_/" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge" />
-</a>
 </p>
 
 ---
