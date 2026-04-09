@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 
-I'm a passionate **Full Stack Developer** from Dhaka, Bangladesh, who loves turning ideas into real, impactful web applications. I enjoy working on my journey.
+I'm a passionate **Fontend Developer** from Dhaka, Bangladesh, who loves turning ideas into real, impactful web applications. I enjoy working on my journey.
 
 - 🎓 Currently studying **Computer Science**
 - 💼 Designation: **Junior Web Developer / Frontend Developer**
